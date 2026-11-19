@@ -10,9 +10,17 @@ body {
             rgba(232, 223, 206, 0.0) 70%,
             rgba(232, 223, 206, 0.0) 100%
         ),
-        url("Pergaminho Antigo Envelhecido e Manchado.png");
+        url("img/Pergaminho Antigo Envelhecido e Manchado.png");
 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
+
+.card-body{
+
+    background-color: #7e7e7e;
+
+}
+
+
